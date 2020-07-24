@@ -1,3 +1,5 @@
 *.iml
 /.idea/
 /out/
+/production/GameTicTacToe/StageOneDemo.class
+/production/GameTicTacToe/TicTacToeStageOne.class
